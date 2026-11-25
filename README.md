@@ -11,7 +11,7 @@
 
 ## Структура репозитория
 
-'''text
+```text
 os-linux-course/
 ├── README.md
 ├── assets/
@@ -35,7 +35,7 @@ os-linux-course/
 └── scripts/
     └── README.md
 
-'''
+```
 
 # Личные ожидания от курса
 
